@@ -6,13 +6,12 @@ body_class: home
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center align-content-center">
-      <h2>{{ site.data.event.name }}</h2>
+      <h2><img src="{{ site.baseurl }}/static/img/logo.png" alt="{{ site.data.event.name }} Logo"/></h2>
       <div class="hero-date-info">
-        <h3>{{ site.data.event.days }} in Nashville, TN</h3>
-        <h4>Come for the hot chicken, stay for the community!</h4>
+        <h3>Join us on Saturday, {{ site.data.event.dates }}</h3>
       </div>
       <div class="hero-register-button">
-        <a class="btn btn-light btn-xlg btn-register" role="button" href="https://pytn2020.eventbrite.com/">SOLD OUT!</a>
+        <a class="btn btn-light btn-xlg btn-register" role="button" href="{{ site.data.event.registration_url }}">Register</a>
       </div>
   </div>
 </div>
@@ -39,36 +38,8 @@ body_class: home
     <div class="col-12 col-md-6 home-announcements">
       <h3>Announcements</h3>
       <div class="home-announcement">
-        <h4>PyTN 2020 is still on</h4>
-        <p>The recent tornadoes in Nashville have been devastating, but the site of PyTN 2020 has been unaffected by the storms. Rest assured that PyTN is still happening this weekend.</p>
-      </div>
-      <div class="home-announcement">
-        <h4>PyTN 2020 is SOLD OUT!</h4>
-        <p>Thank you to everyone who purchased a ticket to PyTN 2020! If you didn't get yours, we're so sorry we're going to miss you, but hopefully we'll get to see you next year!</p>
-      </div>
-      <div class="home-announcement">
-        <h4>Conference schedule now available</h4>
-        <p>
-          The {{ site.data.event.full_abbreviation }} schedule is now available! Check it out and find your favorite talk today!
-        </p>
-      </div>
-      <div class="home-announcement">
-        <h4>Submit your talk idea today</h4>
-        <p>
-          The {{ site.data.event.full_abbreviation }} CFP is officially open! The CFP is open until Oct 14 and we're excited to hear your talk ideas: <a href="https://papercall.io/pytn-2020">https://papercall.io/pytn-2020</a>
-        </p>
-      </div>
-      <div class="home-announcement">
-        <h4>{{ site.data.event.full_abbreviation }} tickets on sale</h4>
-        <p>
-          If you're ready to buy your ticket to {{ site.data.event.short_abbreviation }}, then you're in luck!
-          Early Bird tickets are on sale and <a href="https://pytn2020.eventbrite.com/">available here</a>
-        </p>
-      </div>
-      <div class="home-announcement">
-        <h4>2020 dates and location!</h4>
-        <p>We officially have dates and a location!
-        {{ site.data.event.name }} will be held on {{ site.data.event.dates }}, and just like in years past, we'll again be at the Nashville School of Law.</p>
+        <h4>Our CFP is open!</h4>
+        <p>We want <em>YOU</em> to speak at {{ site.data.event.short_abbreviation }}! The CFP is open until {{ site.data.event.cfp_close }}, so <a href="{{ site.data.event.cfp_url }}">submit your talk today</a>!</p>
       </div>
     </div>
   </div>
