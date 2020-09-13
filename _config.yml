@@ -27,6 +27,7 @@ registration_open: true
 
 visible:
   blog: false
+  event_info: false
   sponsors: true
   speaking: false
   speakers: false
