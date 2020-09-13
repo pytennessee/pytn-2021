@@ -14,13 +14,10 @@ _We appreciate everyone who has donated their time to {{ site.data.event.full_ab
 
 If you would like to contact all the organizers, please send an email to [organizers@pytennessee.org](mailto:organizers@pytennessee.org).
 
-* {{ site.data.event.short_name }} Chair: [Bill Israel](mailto:chair@pytennessee.org)
-* {{ site.data.event.short_name }} Co-Chair: [Jayme Kolling](mailto:cochair@pytennessee.org)
-* {{ site.data.event.short_name }} Sponsorship Chair: [Aliya Gifford](mailto:sponsorships@pytennessee.org)
-* {{ site.data.event.short_name }} Sponsorship Co-Chair: [Anna Dolan](mailto:sponsorships@pytennessee.org) 
-* {{ site.data.event.short_name }} Marketing Chair: [Rainu Ittycheriah](mailto:info@pytennessee.org)
-* {{ site.data.event.short_name }} Marketing Co-Chair: [Jason Myers](mailto:info@pytennessee.org)
-* {{ site.data.event.short_name }} Speaker Chair: [Bill Israel](mailto:speakers@pytennessee.org)
-* {{ site.data.event.short_name }} Production Chair: [Jessica Wynn](mailto:volunteers@pytennessee.org)
+* {{ site.data.event.short_name }} Chair: [Jessica Wynn](mailto:chair@pytennessee.org)
+* {{ site.data.event.short_name }} Co-Chair: [Bill Israel](mailto:cochair@pytennessee.org)
+* {{ site.data.event.short_name }} Sponsorship Chair: [Bill Israel](mailto:sponsorships@pytennessee.org)
+* {{ site.data.event.short_name }} Marketing Chair: [Bill Israel](mailto:info@pytennessee.org)
+* {{ site.data.event.short_name }} Speaker Chair: [TBD](mailto:speakers@pytennessee.org)
+* {{ site.data.event.short_name }} Production Chair: [Will Johns](mailto:volunteers@pytennessee.org)
 * {{ site.data.event.short_name }} Volunteer Chair: [Jessica Wynn](mailto:volunteers@pytennessee.org)
-* {{ site.data.event.short_name }} Young Coders Chair: [Michael Mead](mailto:youngcoders@pytennessee.org)
