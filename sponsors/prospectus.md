@@ -32,59 +32,59 @@ With {{ site.data.event.full_abbreviation }} being online and free to attend, we
 We've dramatically simplified our sponsorship options this year, and both levels are more limited than in years past.
 Once you're ready to support {{ site.data.event.name }}, please send an email to [{{ site.data.event.sponsors_email }}](mailto:{{ site.data.event.sponsors_email }}).
 
-<table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered sponsor-levels">
   <thead>
     <tr>
-      <th style="text-align: center">Benefit</th>
-      <th style="text-align: center">Nudge Nudgers</th>
-      <th style="text-align: center">Cheese Shop</th>
+      <th>Benefit</th>
+      <th>Nudge Nudgers</th>
+      <th>Cheese Shop</th>
     </tr>
     <tr>
-      <th style="text-align: center">&nbsp;</th>
-      <th style="text-align: center">$1,000</th>
-      <th style="text-align: center">$500</th>
+      <th>&nbsp;</th>
+      <th>$1,000</th>
+      <th>$500</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Limited to</td>
-      <td style="text-align: center">5</td>
-      <td style="text-align: center">10</td>
+      <td>Limited to</td>
+      <td>5</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td style="text-align: center">Regular sponsor messages in conference chat</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">&nbsp;</td>
+      <td>Regular sponsor messages in conference chat</td>
+      <td>✅</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">Video ads between conference sessions</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">&nbsp;</td>
+      <td>Logo on conference t-shirt</td>
+      <td>✅</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">Logo on conference t-shirt</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">&nbsp;</td>
+      <td>Logo &amp; text on livestream page</td>
+      <td>✅</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">Logo on video bumper</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">✅</td>
+      <td>Logo on video bumper</td>
+      <td>✅</td>
+      <td>✅</td>
     </tr>
     <tr>
-      <td style="text-align: center">Logo and text in conference media</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">✅</td>
+      <td>Logo &amp; text in conference media</td>
+      <td>✅</td>
+      <td>✅</td>
     </tr>
     <tr>
-      <td style="text-align: center">Announcements in social media</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">✅</td>
+      <td>Announcements in social media</td>
+      <td>✅</td>
+      <td>✅</td>
     </tr>
     <tr>
-      <td style="text-align: center">Logo and text on {{ site.event.data.short_abbreviation }} website</td>
-      <td style="text-align: center">✅</td>
-      <td style="text-align: center">✅</td>
+      <td>Logo and text on {{ site.event.data.short_abbreviation }} website</td>
+      <td>✅</td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>

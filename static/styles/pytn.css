@@ -276,6 +276,12 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
   width: 100%;
 }
 
+.sponsor-levels th,
+.sponsor-levels td
+{
+  text-align: center;
+}
+
 /* mobile */
 @media (max-width: 767px) {
     .sponsor-tier-name:first-of-type {
