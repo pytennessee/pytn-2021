@@ -67,9 +67,11 @@
             </div>
           </li>
           {% endif %}
+          {% if site.visible.blog %}
           <li class="nav-item">
             <a class="nav-link" href="{% link blog/index.html %}">Blog </a>
           </li>
+          {% endif %}
           {% if site.registration_open %}
           <li class="nav-item">
             <a tabindex="0" class="nav-link btn btn-outline-light" role="button" href="{{ site.data.event.registration_url }}">Register</a>
