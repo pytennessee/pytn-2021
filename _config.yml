@@ -23,6 +23,8 @@ exclude:
   - scripts
   - .idea
 
+registration_open: true
+
 visible:
   sponsors: true
   speaking: false

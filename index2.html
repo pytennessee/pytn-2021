@@ -10,9 +10,11 @@ body_class: home
       <div class="hero-date-info">
         <h3>Join us on Saturday, {{ site.data.event.dates }}</h3>
       </div>
+      {% if site.registration_open %}
       <div class="hero-register-button">
         <a class="btn btn-light btn-xlg btn-register" role="button" href="{{ site.data.event.registration_url }}">Register</a>
       </div>
+      {% endif %}
   </div>
 </div>
 
