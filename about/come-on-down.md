@@ -22,9 +22,10 @@ Interested in gaining practical knowledge that you can immediately put to use? {
 We fly in speakers from all over the world to help you push your boundaries. At {{ site.data.event.short_name }}, you will hear industry leaders speak about how they organize both their code and careers. We guarantee you will walk away with some concrete ideas for your own.
 
 
-### 3. Music City, USA
+### 3. We're Completely Virtual
 
-Nashville is one of America's fastest-growing cities and for good reason. Live music, museums, beautiful parks, and breweries are scattered all across the city. We encourage you to check them out (Not during conference hours, of course!). As our conference chair likes to say, "Come for the code, stay for the hot chicken." 🔥🐓
+This year, you don't even have to get off the couch to attend {{ site.data.event.short_name }}. 
+Watch our live stream in real-time, or check out the videos on YouTube after the event, all without venturing into the outside world.
 
 
 ### 4. The People
@@ -34,6 +35,6 @@ Whether you are hiring or looking to get hired, you will never find a denser col
 
 ### 5. Maximum Value
 
-Now in its 7th year, {{ site.data.event.short_name }} has gained a reputation as one of the best regional Python conferences in America. We keep our ticket prices low and offer financial aid, so that everyone who wants to can seize this opportunity to accelerate their Python programming skills and career.
+Now in its 8th year, {{ site.data.event.short_name }} has gained a reputation as one of the best regional Python conferences in America. Our conference is free and open to anyone this year; anyone who wants to can seize this opportunity to accelerate their Python programming skills and career.
 
-We look forward to [seeing you there](https://pytn2020.eventbrite.com/)!
+We look forward to [seeing you there](https://pytn2021.eventbrite.com/)!
